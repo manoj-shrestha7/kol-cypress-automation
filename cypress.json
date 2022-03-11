@@ -1,0 +1,6 @@
+{
+    "env" : {
+        "localUrl" : "http://localhost:4021/"
+    },
+    "chromeWebSecurity": false
+}
