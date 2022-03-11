@@ -1,0 +1,1 @@
+Initialization of Cypress Automation for KOL-Tech
