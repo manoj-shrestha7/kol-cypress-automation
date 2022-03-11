@@ -1,0 +1,22 @@
+{
+  "name": "qa-automation",
+  "version": "1.0.0",
+  "description": "Initialization of Cypress Automation for KOL-Tech",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manoj-shrestha7/kol-cypress-automation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manoj-shrestha7/kol-cypress-automation/issues"
+  },
+  "homepage": "https://github.com/manoj-shrestha7/kol-cypress-automation#readme",
+  "devDependencies": {
+    "cypress": "^9.5.1"
+  }
+}
