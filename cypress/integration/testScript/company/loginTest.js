@@ -1,5 +1,5 @@
 /// <reference types="Cypress" />
-describe('Admin can Login', function (){
+describe('Login Functionality', function (){
     let baseUrl = Cypress.env('localUrl');
 
     beforeEach(function() {
