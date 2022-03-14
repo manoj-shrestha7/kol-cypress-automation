@@ -1,6 +1,6 @@
 {
     "env" : {
-        "localUrl" : "http://localhost:4021/"
+        "localUrl" : "https://iproducer.stg.i-collection.net/"
     },
     "chromeWebSecurity": false
 }
