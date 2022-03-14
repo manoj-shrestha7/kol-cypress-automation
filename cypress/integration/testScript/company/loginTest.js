@@ -1,9 +1,5 @@
 /// <reference types="Cypress" />
-<<<<<<< HEAD
-describe('Login Functionality', function (){
-=======
 describe('Login functionality', function (){
->>>>>>> remotes/origin/pratikshya-dev
     let baseUrl = Cypress.env('localUrl');
 
     beforeEach(function() {
