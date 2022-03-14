@@ -24,7 +24,7 @@ describe('Login functionality', function (){
             .type("auth123!");
         cy.get('.c56665bee > .c9c3c2470')
             .click();
-        cy.get('#error-message').should('Wrong email or password')
+        cy.get('#error-message').should('Wrong email or password');
     });
 
     it('Verify that admin can login with valid email and invalid password', function (){
@@ -35,6 +35,6 @@ describe('Login functionality', function (){
             .type("auth1234");
         cy.get('.c56665bee > .c9c3c2470')
             .click();
-        cy.get('#error-message').should('Wrong email or password')
+        cy.get('#error-message').should('Wrong email or password');
     });
 });
